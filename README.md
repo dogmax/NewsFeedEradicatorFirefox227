@@ -17,7 +17,7 @@ For the actively maintained version, please visit the original project:
 
 ## Why this fork?
 
-This fork is based on **v2.2.7**, released on June 9, 2024, which was distributed under the MIT License as confirmed on the [Firefox Add-ons page](https://addons.mozilla.org/en-US/firefox/addon/news-feed-eradicator/versions/). It does not incorporate any code from v3 or later of the project.
+This fork is based on **v2.2.7**, released on June 9, 2024, which was distributed under the MIT License as confirmed on the [Firefox Add-ons page](https://addons.mozilla.org/en-US/firefox/addon/news-feed-eradicator/versions/) as per the 9th of April 2026. It does not incorporate any code from v3 or later of the project.
 
 v2.2.7 includes a **per-site enable/disable** feature, which allows you to temporarily re-enable the news feed on a specific site without affecting any other sites. In v3, this was changed to a global toggle that enables or disables the feed across all sites at once.
 
