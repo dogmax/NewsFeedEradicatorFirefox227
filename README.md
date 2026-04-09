@@ -44,9 +44,6 @@ Download the `.xpi` file and open it directly in Firefox. Firefox will prompt yo
 
 ---
 
-> **Note for repo maintainer:** To make the `.xpi` available on the Releases page, go to your repository on GitHub, click **Releases → Create a new release**, tag it (e.g. `v2.2.7`), and attach the `.xpi` file as a release asset before publishing.
-
----
 
 ## License
 
