@@ -1928,7 +1928,12 @@
 	        const scroll_item = document.querySelector('.scrollerItem');
 	        const new_new_reddit_container = document.querySelector('shreddit-feed');
 	        const new_reddit_container = (_c = (_b = (_a = scroll_item === null || scroll_item === void 0 ? void 0 : scroll_item.parentNode) === null || _a === void 0 ? void 0 : _a.parentNode) === null || _b === void 0 ? void 0 : _b.parentNode) === null || _c === void 0 ? void 0 : _c.previousSibling;
-	        const old_reddit_container = document.querySelector('.listing-page > .content');
+	        const old_reddit_container = document.querySelector('.content[role="main"]');
+			// Hide sidebar on old Reddit
+			const old_reddit_sidebar = document.querySelector('div.side');
+			if (old_reddit_sidebar) {
+				old_reddit_sidebar.style.display = 'none';
+			}
 	        const container = new_new_reddit_container || new_reddit_container || old_reddit_container;
 	        if (container == null) {
 	            return;
