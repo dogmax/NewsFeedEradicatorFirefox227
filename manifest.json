@@ -1,6 +1,6 @@
 {
   "name": "News Feed Eradicator Legacy",
-  "version": "2.2.7",
+  "version": "2.2.7-1",
   "description": "Eradicate social media noise by replacing your entire news feed with an inspiring quote",
   "manifest_version": 2,
   "permissions": [
@@ -36,7 +36,7 @@
       "64": "icon64.png",
       "128": "icon128.png"
     },
-    "default_title": "News Feed Eradicator"
+    "default_title": "News Feed Eradicator Legacy"
   },
   "background": {
     "page": "background.html"
