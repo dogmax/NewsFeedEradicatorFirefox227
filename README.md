@@ -52,10 +52,9 @@ This project is licensed under the **MIT License**.
 Original work:
 Copyright (c) Jordan West
 
-Fork maintained by:
-Copyright (c) [YOUR NAME OR USERNAME]
+Fork created by Dogmax
 
-See the full license text in the [LICENSE](./LICENSE) file.
+See the full license text [here](https://spdx.org/licenses/MIT.html)
 
 ---
 
