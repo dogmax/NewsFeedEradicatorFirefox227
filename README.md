@@ -53,7 +53,7 @@ Copyright (c) Jordan West
 
 Fork created by Dogmax
 
-See the full license text [here](https://spdx.org/licenses/MIT.html)
+See the full license text in the [LICENSE](./LICENSE) file.
 
 ---
 
