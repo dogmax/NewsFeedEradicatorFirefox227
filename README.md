@@ -54,7 +54,7 @@ Copyright (c) 2013 Jordan West
 
 Fork created by Dogmax
 
-The license text is copied verbatim from [Jordan West's repository at the v2.2.7 tag](https://github.com/jordwest/news-feed-eradicator/blob/v2.2.7/LICENSE) and is included in the [LICENSE](./LICENSE) file in this repository.
+The license text is copied verbatim from [Jordan West's repository at the v2.2.7 tag](https://github.com/jordwest/news-feed-eradicator/blob/v2.2.7/LICENSE) ([archived April 9, 2026](https://web.archive.org/web/20260409101140/https://github.com/jordwest/news-feed-eradicator/blob/v2.2.7/LICENSE)) and is included in the [LICENSE](./LICENSE) file in this repository.
 
 Note: Later versions of News Feed Eradicator (v3 and above) have been released under the [GNU Affero General Public License v3.0 (AGPL-3.0)](https://github.com/jordwest/news-feed-eradicator/blob/main/LICENSE). This fork is based solely on v2.2.7, which was released under the MIT License, and contains no code from any later version.
 
