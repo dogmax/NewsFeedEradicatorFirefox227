@@ -1,6 +1,7 @@
 # News Feed Eradicator (Legacy Archive Fork)
 
-> **This is a fork of an older version of [News Feed Eradicator](https://github.com/jordwest/news-feed-eradicator) by [Jordan West (jordwest)](https://github.com/jordwest), preserved for personal/archival use.**
+> **This is a fork of an older version of [News Feed Eradicator](https://github.com/jordwest/news-feed-eradicator) by [Jordan West (jordwest)](https://github.com/jordwest), forked to preserve and build upon the per-site enable/disable feature.**
+
 
 ---
 
@@ -8,7 +9,7 @@
 
 News Feed Eradicator is a browser extension that replaces social media news feeds with an inspiring quote, helping reduce distraction and mindless scrolling.
 
-This repository is a fork based on an older release of the original project. It has been archived here to preserve that version of the extension. The .xpi does not contain a LICENSE file; the MIT License declaration is documented on the official [AMO](https://addons.mozilla.org/en-US/firefox/addon/news-feed-eradicator/versions/) release page.
+This repository is a fork based on an older release of the original project. It has been archived here to preserve that version of the extension. The .xpi does not contain a LICENSE file; the MIT License declaration is documented on the official [AMO release page](https://addons.mozilla.org/en-US/firefox/addon/news-feed-eradicator/versions/) and confirmed in [Jordan West's own repository at the v2.2.7 tag](https://github.com/jordwest/news-feed-eradicator/blob/v2.2.7/LICENSE).
 
 For the actively maintained version, please visit the original project:
 **[https://github.com/jordwest/news-feed-eradicator](https://github.com/jordwest/news-feed-eradicator)**
@@ -17,13 +18,13 @@ For the actively maintained version, please visit the original project:
 
 ## Why this fork?
 
-This fork is based on **v2.2.7**, released on June 9, 2024, which was distributed under the MIT License as confirmed on the [Firefox Add-ons page](https://addons.mozilla.org/en-US/firefox/addon/news-feed-eradicator/versions/) as per the 9th of April 2026. It does not incorporate any code from v3 or later of the project.
+This fork is based on **v2.2.7**, released on June 9, 2024, which was distributed under the MIT License as confirmed on the [Firefox Add-ons page](https://addons.mozilla.org/en-US/firefox/addon/news-feed-eradicator/versions/) as per the 9th of April 2026, and in [Jordan West's own repository at the v2.2.7 tag](https://github.com/jordwest/news-feed-eradicator/blob/v2.2.7/LICENSE). It does not incorporate any code from v3 or later of the project.
 
 v2.2.7 includes a **per-site enable/disable** feature, which allows you to temporarily re-enable the news feed on a specific site without affecting any other sites. In v3, this was changed to a global toggle that enables or disables the feed across all sites at once.
 
 This is a regression for users who want fine-grained control. For example, if you temporarily enable the news feed on YouTube, you should not be simultaneously exposed to feeds on Facebook, LinkedIn, Reddit, and every other supported site — which is exactly what the global toggle causes. That kind of all-or-nothing approach undermines the whole point of the extension and encourages the doom scrolling it is meant to prevent.
 
-This fork exists to preserve the per-site behaviour available in v2.2.7. No changes have been made to the original source code.
+This fork exists to preserve the per-site behaviour available in v2.2.7 and may be developed further. No changes have been made to the original source code at this time.
 
 ---
 
@@ -49,14 +50,16 @@ Download the `.xpi` file and open it directly in Firefox. Firefox will prompt yo
 This project is licensed under the **MIT License**.
 
 Original work:
-Copyright (c) Jordan West
+Copyright (c) 2013 Jordan West
 
 Fork created by Dogmax
 
-See the full license text in the [LICENSE](./LICENSE) file.
+The license text is copied verbatim from [Jordan West's repository at the v2.2.7 tag](https://github.com/jordwest/news-feed-eradicator/blob/v2.2.7/LICENSE) and is included in the [LICENSE](./LICENSE) file in this repository.
+
+Note: Later versions of News Feed Eradicator (v3 and above) have been released under the [GNU Affero General Public License v3.0 (AGPL-3.0)](https://github.com/jordwest/news-feed-eradicator/blob/main/LICENSE). This fork is based solely on v2.2.7, which was released under the MIT License, and contains no code from any later version.
 
 ---
 
 ## Credits
 
-All original credit goes to **[Jordan West (jordwest)](https://github.com/jordwest)** for creating and maintaining News Feed Eradicator. This fork exists solely to preserve an older version of their work.
+All original credit goes to **[Jordan West (jordwest)](https://github.com/jordwest)** for creating and maintaining News Feed Eradicator. This fork exists primarily to preserve an older version of their work.
