@@ -1,6 +1,6 @@
 # News Feed Eradicator (Legacy Archive Fork)
 
-> **This is a fork of an older version of [News Feed Eradicator](https://github.com/jordwest/news-feed-eradicator) by [Jordan West (jordwest)](https://github.com/jordwest), forked to preserve and build upon the per-site enable/disable feature.**
+> **This is a fork of an older version of [News Feed Eradicator](https://github.com/jordwest/news-feed-eradicator) by [Jordan West (jordwest)](https://github.com/jordwest), forked to preserve and build upon the per-site enable/disable feature. The older version was found at [Mozilla's addon site](https://addons.mozilla.org/en-US/firefox/addon/news-feed-eradicator/versions/).**
 
 
 ---
