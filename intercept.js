@@ -1934,6 +1934,11 @@
 			if (old_reddit_sidebar) {
 				old_reddit_sidebar.style.display = 'none';
 			}
+			// Hide old Reddit main feed content
+			const old_reddit_feed = document.querySelector('.sitetable.linklisting');
+			if (old_reddit_feed) {
+			old_reddit_feed.style.display = 'none';
+			}
 	        const container = new_new_reddit_container || new_reddit_container || old_reddit_container;
 	        if (container == null) {
 	            return;
