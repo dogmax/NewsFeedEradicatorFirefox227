@@ -8,7 +8,7 @@
 
 News Feed Eradicator is a browser extension that replaces social media news feeds with an inspiring quote, helping reduce distraction and mindless scrolling.
 
-This repository is a fork based on an older release of the original project. It has been archived here to preserve that version of the extension.
+This repository is a fork based on an older release of the original project. It has been archived here to preserve that version of the extension. The .xpi does not contain a LICENSE file; the MIT License declaration is documented on the official [AMO](https://addons.mozilla.org/en-US/firefox/addon/news-feed-eradicator/versions/) release page.
 
 For the actively maintained version, please visit the original project:
 **[https://github.com/jordwest/news-feed-eradicator](https://github.com/jordwest/news-feed-eradicator)**
@@ -43,7 +43,6 @@ Download the `.xpi` file and open it directly in Firefox. Firefox will prompt yo
 4. Select the downloaded `.xpi` file.
 
 ---
-
 
 ## License
 
